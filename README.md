@@ -1,2 +1,2 @@
-# pokemon-cards-code
+# pokemoncards
 
