@@ -3,3 +3,12 @@ cards/
 _pokemon_cards_backup/
 
 cards/
+
+# Prevent large file bloat
+*.log
+*.tmp
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+.next/
