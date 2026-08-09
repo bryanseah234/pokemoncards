@@ -42,3 +42,10 @@ skills/
 skills-lock.json
 docs/
 templates/
+.env
+.env.*
+venv/
+dist/
+build/
+coverage/
+.pytest_cache/
